@@ -1,6 +1,19 @@
-# GrupoDeTripulantes2-Grupo03
-Repositorio Git del grupo 2, perteneciente al grupo 03 de misión tic 2022
-# Hola soy el tutor Juan David
-# Hola soy el contribuidor Camilo Andres
-# Hola soy el contribuidor Julio Fabio
-# Hola soy el contribuidor Sebastian Rodriguez
+# ecommerce
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
